@@ -1,14 +1,16 @@
-![Screenshot 2024-12-07 170614](https://github.com/user-attachments/assets/627efa51-c961-47ca-8193-2e287c08ba1e)![Screenshot 2024-12-07 170614](https://github.com/user-attachments/assets/8bb348b6-9763-4b3c-acbd-530e98f194e1)# Sahana Medical Website 🏥
+# Sahana Medical Website ✨
 
 ## Project Overview 📖
-The **Sahana Medical Website** is a web application that provides a streamlined platform for clients to schedule appointments, manage profiles, and track their medical history. Doctors can analyze patient data, and administrators handle scheduling and client management to improve operational efficiency.
+The **Sahana Medical Website** is a web application that simplifies operations in a medical center. It offers role-specific functionalities for clients, doctors, and administrators. Clients can book appointments and track their medical history, doctors can analyze patient data and generate reports, and administrators manage users, appointments, and system reports.
 
 ## Features 🚀
-- **User Authentication**: Sign up, login, and profile management for clients and admins 👤
-- **Appointment Management**: Book, view, and manage appointments 📅
-- **Medical History Tracking**: Clients can access past appointment and health records 📑
-- **Admin & Doctor Dashboards**: Customized dashboards for doctors and admins to view and manage data 📊
-- **CRUD Operations**: Create, read, update, and delete functionalities across different user roles 🔨
+- **User Authentication**: Sign up, login, and profile management for clients, doctors, and admins 👤
+- **Appointment Management**: Clients can book and view appointments 📅
+- **Admin & Doctor Dashboards**: Role-specific dashboards to streamline operations 📊
+- **Report Generation**:  
+  - Doctors can generate **disaster reports** and **review reports** 📝  
+  - Admins can generate **gender-based** and **age-based reports** 📑  
+- **Review Center**: Clients can submit reviews for the medical center ✍️
 
 ## Technologies Used 💻
 - **HTML**: For structuring the web pages 📃
@@ -46,20 +48,18 @@ The **Sahana Medical Website** is a web application that provides a streamlined 
 
 ### **Clients**:
   - **Book Appointments**: Schedule appointments with available doctors.
-  - **Review Doctors**: Browse doctor profiles and select a preferred doctor for appointments.
+  - **Review Center**: Submit reviews for the medical center.
   - **Check Appointment Status**: View the status of their booked appointments, including upcoming and past appointments.
-  - **Access Medical History**: Track and review their previous medical records and consultation details.
 
 ### **Doctors**:
-  - **Manage Admins**: Oversee and update admin profiles if necessary.
-  - **Analyze Patient History**: Access client medical records and history for better diagnosis.
-  - **Provide Feedback**: Add consultation notes for client reference.
+  - **Generate Reports**: Create **disaster reports** and **review reports**.
+  - **Analyze Patient Data**: Access and analyze patient medical history for better diagnostics.
 
 ### **Admins**:
   - **Manage Clients**: Add, edit, or delete client profiles.
   - **Update Appointment Status**: Mark appointments as completed, canceled, or rescheduled.
   - **System Maintenance**: Oversee website functionality, ensuring smooth operation for all users.
-  - **Handle Appointment Traffic**: Optimize schedules and balance client traffic effectively.
+  - **Generate Reports**: Create **gender-based** and **age-based reports** to analyze trends and demographics.
 
 
 ## Contributors 🙌
@@ -75,27 +75,26 @@ For inquiries, feel free to connect with me on [LinkedIn](https://www.linkedin.c
 
 ## Screenshots 📷
 ### Home View
-![Screenshot 2024-12-07 165952](https://github.com/user-attachments/assets/10915a41-56ae-4419-ad2b-997e7e6d0ec5)
+![Home View](https://github.com/user-attachments/assets/10915a41-56ae-4419-ad2b-997e7e6d0ec5)
 
 ### Client Profile
-![Screenshot 2024-12-07 170018](https://github.com/user-attachments/assets/28be27a3-6da2-42bf-be0c-b08292e76852)
+![Client Profile](https://github.com/user-attachments/assets/28be27a3-6da2-42bf-be0c-b08292e76852)
 
-### Admins Dashboard
-![Screenshot 2024-12-07 170046](https://github.com/user-attachments/assets/dcd33415-5997-40ef-80d7-edd1b91d265c)
+### Admin/Doctor - Login/SignUp
+![Admin/Doctor Login](https://github.com/user-attachments/assets/539a83ca-24c9-4c7f-9aa2-59d8dcd1ec27)
+
+### Admin Dashboard
+![Admin Dashboard](https://github.com/user-attachments/assets/dcd33415-5997-40ef-80d7-edd1b91d265c)
 
 ### Doctor Dashboard
-![Screenshot 2024-12-07 170656](https://github.com/user-attachments/assets/5c553771-0567-4097-8ee7-c1a3b2ebcba6)
+![Doctor Dashboard](https://github.com/user-attachments/assets/5c553771-0567-4097-8ee7-c1a3b2ebcba6)
 
-### Appointments Genarations 
-![Screenshot 2024-12-07 170107](https://github.com/user-attachments/assets/d5d89285-a9f6-4fed-b73e-53e01274f2e0)
+### Appointment Generation
+![Appointments](https://github.com/user-attachments/assets/d5d89285-a9f6-4fed-b73e-53e01274f2e0)
 
-### Report Genarations 
-![Screenshot 2024-12-07 170144](https://github.com/user-attachments/assets/b03dcbf0-a300-47d4-bffa-4b395961a32f)
-![Screenshot 2024-12-07 170210](https://github.com/user-attachments/assets/463e46c7-17a9-4841-a573-889945f73a02)
-
-### Admin/Doctor - Login/SignUp 
-![Screenshot 2024-12-07 170614](https://github.com/user-attachments/assets/539a83ca-24c9-4c7f-9aa2-59d8dcd1ec27)
-
+### Report Generation
+![Report Generation 1](https://github.com/user-attachments/assets/b03dcbf0-a300-47d4-bffa-4b395961a32f)
+![Report Generation 2](https://github.com/user-attachments/assets/463e46c7-17a9-4841-a573-889945f73a02)
 
 
 #### Thank you for exploring the Sahana Medical Website! Your feedback and contributions are always welcome. ❤️
