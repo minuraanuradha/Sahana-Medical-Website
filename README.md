@@ -42,11 +42,25 @@ The **Sahana Medical Website** is a web application that provides a streamlined 
 
 ## Usage 🖱️
 - Sign up or log in to access the main features.
-- Admins and doctors have separate dashboards to manage their respective functionalities.
-- Clients can:
+- Admins, doctors, and clients have distinct functionalities tailored to their roles:
+
+### **Clients**:
   - **Book Appointments**: Schedule appointments with available doctors.
   - **Review Doctors**: Browse doctor profiles and select a preferred doctor for appointments.
   - **Check Appointment Status**: View the status of their booked appointments, including upcoming and past appointments.
+  - **Access Medical History**: Track and review their previous medical records and consultation details.
+
+### **Doctors**:
+  - **Manage Admins**: Oversee and update admin profiles if necessary.
+  - **Analyze Patient History**: Access client medical records and history for better diagnosis.
+  - **Provide Feedback**: Add consultation notes for client reference.
+
+### **Admins**:
+  - **Manage Clients**: Add, edit, or delete client profiles.
+  - **Update Appointment Status**: Mark appointments as completed, canceled, or rescheduled.
+  - **System Maintenance**: Oversee website functionality, ensuring smooth operation for all users.
+  - **Handle Appointment Traffic**: Optimize schedules and balance client traffic effectively.
+
 
 ## Contributors 🙌
 - [M.A.A. Jayasingha](https://github.com/minuraanuradha)
